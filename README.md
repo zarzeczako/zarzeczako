@@ -10,7 +10,7 @@
 
 </div>
 
-## The Mythos
+## About me
 
 I'm a Computer Science Engineer (Politechnika Lubelska, B.Eng. `5.0`, currently completing an M.Sc.) who treats data infrastructure the way engineers treat load-bearing structures — every model, pipeline, and dashboard has to hold weight under real business pressure, not just look correct in a demo.
 
