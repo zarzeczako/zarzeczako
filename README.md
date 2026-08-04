@@ -20,7 +20,7 @@ I've worked inside governance and security-sensitive environments — validating
 
 ## The Pantheon — Flagship Projects
 
-### ☀️ [H.E.L.I.O.S.](https://github.com/zarzeczako/helios)
+### 🌊 [P.O.S.E.I.D.O.N.](https://github.com/zarzeczako/helios)
 **Investigative Analytics & ETL**
 
 Named for the god who sees everything the earth tries to hide. HELIOS ingests public procurement data through Python-driven ETL and API pipelines, then applies graph modeling to surface anomalous relationships — shell patterns, repeat-award clustering, pricing outliers — that flat tabular analysis misses.
@@ -80,7 +80,7 @@ Strategy and structural wisdom. An end-to-end analytical system in C# / .NET 8 u
 
 ## Current Focus
 
-Currently focused on scaling **[H.E.L.I.O.S.](https://github.com/zarzeczako/helios)** into a robust public-data product. As I advance as a fiercely business-centric Data Analyst, my primary goal is to bridge the gap between rigorous engineering and commercial strategy. I am driven by an obsession to look beyond surface-level metrics to find the hidden narrative—always reading between the lines of data to uncover the root causes and underlying mechanics that actually dictate business outcomes.
+Currently focused on scaling **[P.O.S.E.I.D.O.N.](https://github.com/zarzeczako/helios)** into a robust public-data product. As I advance as a fiercely business-centric Data Analyst, my primary goal is to bridge the gap between rigorous engineering and commercial strategy. I am driven by an obsession to look beyond surface-level metrics to find the hidden narrative—always reading between the lines of data to uncover the root causes and underlying mechanics that actually dictate business outcomes.
 <div align="center">
 
 ⸻
